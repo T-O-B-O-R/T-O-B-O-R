@@ -1,0 +1,14 @@
+- Hello!
+- My Name is Robert
+- I am a student at ASU for Computer Science (Cybersecurity)
+- I like learning how things work and getting into the nitty gritty of topics
+- While I consider myself an ametuer, I pick up skills quick and adapt easily so contending against seasoned programmers is only a matter of time.
+- So far the languages I am confident in are:
+-   C (Intermediate)
+-   Javascript (Intermediate)
+-   linux Command Line (Basic)
+-   C# (Basic)
+
+- Topics that I have taken classes for include:
+-   Algorithms and Data structures
+-   
